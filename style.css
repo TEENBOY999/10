@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+ul {
+    list-style: none;
+
+}
+.f {
+    width: 10px;
+    height: 10px;
+    background-image: url(./Group.svg);
+    display: none;
+}
+.ul {
+    display: flex;
+    gap: 20px;
+}
+.ula {
+    display: flex;
+    gap: 20px;
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1200px;
+}
+
+.a {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.ota {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.btn {
+    width: 180px;
+height: 53px;
+gap: 0px;
+opacity: 0px;
+background: rgba(252, 183, 43, 1);
+color: #fff;
+border: none;
+}
+
+.li {
+    color: grey;
+}
+.lis {
+    color: grey;
+}
+
+/* header */
